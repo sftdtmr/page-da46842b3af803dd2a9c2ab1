@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fdc06aaf0ed56015251a82b0",
+  "owner": "sftdtmr",
+  "repo": "page-da46842b3af803dd2a9c2ab1",
+  "title": "AgentNEO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da46842b3af803dd2a9c2ab1",
+      "a": "AgentNEO",
+      "b": "2027最新官网",
+      "entity": "AgentNEO",
+      "brand": "AgentNEO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "07e015b0c839010c2a5cbb6ead9224cb59a03c19a95759a66c7760e29ac6ba16",
+      "content": {
+        "primary_entity": "AgentNEO",
+        "keyword1": "AgentNEO",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择对应客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备数量与流量档位，按客户端文档完成订阅导入即可。",
+          "AI_CLOSING_TITLE": "选对套餐，连上更省心",
+          "AI_DESCRIPTION": "，围绕设备数量、流量档位与订阅周期展开对比，基础版、旗舰版与团队版分别面向个人、多设备用户和小团队，可按年付获取更优惠价格，客户端与订阅配置按系统文档逐步完成。",
+          "AI_FEATURES_INTRO": "从流量、设备数到线路类型，三项常见差异帮你快速定位合适档位。",
+          "AI_FEATURES_TITLE": "套餐差异与选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，流量与设备数同步提升。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速与全节点原生流媒体解锁，适合对线路质量有要求的用户。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，并含 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备档位",
+          "AI_FEATURE_TITLE_2": "线路与解锁差异",
+          "AI_FEATURE_TITLE_3": "团队级配置",
+          "AI_GUIDE_INTRO": "三步完成从选服务到订阅导入的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "AgentNEO 提供基础版、旗舰版和团队版三种订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，可根据使用场景和预算选择合适的方案。",
+          "AI_HERO_SUBTITLE": "选对订阅，专注连接体验",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格更优惠",
+          "AI_HIGHLIGHT_3": "多客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数与流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与每月流量消耗，从基础版、旗舰版、团队版中选出合适档位。",
+          "AI_STEP_TEXT_2": "确认所用系统与设备是否在套餐支持范围内，如设备数量超出可升级档位。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅配置文档导入节点信息，完成后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "AgentNEO 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。按家中常用手机、电脑、平板数量对照选择即可，超出后可升级套餐。",
+          "AI_FAQ_ANSWER_2": "年付更划算。基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付合计金额有明显的节省。",
+          "AI_FAQ_ANSWER_3": "客户端覆盖桌面端、移动端与路由器等常见环境，具体兼容情况以客户端说明为准，建议先安装试用再长期订阅。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线并针对游戏加速优化，延迟表现更稳定；基础版使用普通线路节点池，适合日常浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_5": "订阅链接导入客户端后即可使用，节点与线路依据套餐权益分配。如遇连接异常，先更新订阅，再检查本地网络与客户端版本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_3": "客户端支持哪些操作系统？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版在游戏加速上有什么区别？",
+          "AI_FAQ_QUESTION_5": "订阅配置完成后如何确认线路可用？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "besjk.cn",
+    "host": "besjk.cn"
+  },
+  "file_hashes": {
+    "index.html": "acebdd7cb41fe537711a86ba8ce4c4e37cb8ff4c324df594ead579da8a213edf",
+    "sitemap.xml": "5075ac4a407fcbe63c40b1279af5a381808a5ef315c8cbe0550865c0f44d887b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7d6895f32284054567a74e3761934dedb42aeb4b3857b942b2a703f7699e0f92",
+    "robots.txt": "9bd3659794cb314091aa2e8fad420105a9f3355f830d96b8ee5097379c532774",
+    "473d25cb846b277e7e4339baed3785da.txt": "e8eeb7cce230c7edcd699dade52273cf739d46c38a82d3860c6618e3c10acc80"
+  },
+  "revision": "e3427497d2f3936f7432f1f7dadb76876237b00ef485c15207577a1de9f4708c"
+}
